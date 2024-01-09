@@ -1,2 +1,2 @@
-# C+
+# C++
 It contains C++ Concepts.
